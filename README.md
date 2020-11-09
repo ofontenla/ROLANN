@@ -1,2 +1,2 @@
 # SVD_RidgeRegression
-Red de una capa con regularización L2
+Red de una capa entrenada con el método lineal y con regularización L2
