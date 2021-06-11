@@ -1,6 +1,4 @@
 # ROLANN
-Single layer neural network (without hidden neurons) trained with noniterative learning procedure. It employs a mean-squared loss function with a regularizated term (L2)
-
 
 Novel regularized training method for one-layer neural networks (no hidden layers) that uses an L2-norm penalty term. This noniterative supervised method uses a closed-form expression and determines the optimum set of weights by solving a system of linear equations. It presents two interesting properties that differentiate it from other methods:
 
